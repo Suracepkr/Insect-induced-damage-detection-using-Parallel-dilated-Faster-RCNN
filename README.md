@@ -1,1 +1,3 @@
-# Insect-induced-damage-detection-using-Parallel-dilated-Faster-RCNN
+# Insect-induced-damage-detection-using-Parallel-dilated-Faster-RCNN 
+Pest-induced damage detection in corn leaves using parallel-dilated convolution with adaptive attention module in RPN of Faster R-CNN is developed. The model achieves mAP50:95 (54.06 %) and exhibited a high equilibrium between precision and recall, achieving a F1-score of 80.13%.Compared to the baseline Faster R-CNN model, the proposed model achieves a +1.38-percentage point increase in recall for Fall armyworm damage and a +1.79-percentage point improvement in mAP50:95 for Grasshopper damage. This result suggests improved detection of small objects (Fall armyworm) and accurate localisation of larger, irregular objects (Grasshopper), both individually and when co-occurring.
+<img width="5780" height="4070" alt="GA" src="https://github.com/user-attachments/assets/cd24e79e-1424-462e-b411-1208468b1bad" />
