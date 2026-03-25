@@ -1,0 +1,10 @@
+#Python dependencies required for the development
+torch
+torchvision
+pillow
+numpy
+pycocotools
+tqdm
+matplotlib
+pandas
+albumentations
